@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ganesh Dahiphale</h1>
 <h3 align="center">💻 Frontend Developer | 🐍 Python Programmer | 🚀 Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ganesh-dahiphale&label=Profile%20views&color=0e75b6&style=flat" alt="ganesh-dahiphale" />
-</p>
-
 ---
 
 ## 🚀 About Me
